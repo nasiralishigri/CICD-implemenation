@@ -43,4 +43,14 @@
           npm install
           pm2 restart app # Assuming you use PM2 for process management
 
+
+  Update your branch if it's not main branch.
+  Update your ubuntu version according to your ubuntu system
+ Update your project path in scripts like cd /home/ubuntu/swapping
+
+ # Add your environment variables in github
+     
+ 
+  
+
     
