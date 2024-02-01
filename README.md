@@ -12,13 +12,13 @@
 
     name: Node.js CI/CD
 
-   on:
+    on:
      push:
        branches:
          - main
 
-   jobs:
-    build:
+    jobs:
+     build:
       runs-on: ubuntu-latest
 
     steps:
