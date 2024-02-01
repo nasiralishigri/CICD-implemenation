@@ -12,14 +12,14 @@
 
     name: Node.js CI/CD
 
-on:
-  push:
-    branches:
-      - main
+   on:
+     push:
+       branches:
+         - main
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
+   jobs:
+    build:
+      runs-on: ubuntu-latest
 
     steps:
     - name: Checkout code
